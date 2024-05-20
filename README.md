@@ -1,4 +1,4 @@
-<h1 align=center>CAPÍTULO 9</h1>
+<h1 style="text-align: center;">CAPÍTULO 9</h1>
 
 >**Capítulo 9 - Estruturas Avançadas de Lógica**
 
